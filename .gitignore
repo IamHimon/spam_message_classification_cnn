@@ -1,0 +1,9 @@
+#ignore files
+*.txt~
+*.py~
+*.txt
+
+# ignore directory
+runs/
+data/
+__pycache__/
